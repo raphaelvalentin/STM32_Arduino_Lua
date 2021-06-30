@@ -1,6 +1,4 @@
-/*
- * fix missing function definitions for ARM chip
- */
+
 #include "compat.h"
 
 extern "C" {
