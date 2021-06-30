@@ -15,8 +15,7 @@ Along with the Lua 5.3.2 Core the following Lua standard libraries are included:
 
 LuaWrapper lua;
 
-void Lua_output(const char *s)
-{
+void Lua_output(const char *s) {
   Serial.print(s);
 }
 
@@ -28,7 +27,6 @@ void setup() {
 }
 
 void loop() {
-
 }
 ```
 ## Resources Used (HelloWorld.ino)
@@ -42,11 +40,12 @@ Global variables use 1896 bytes (0%) of dynamic memory, leaving 522392 bytes for
 
 ## Board Compatiliby
 
-The library shall be compatible will all STM32 that features enough memory.
+The library shall be compatible will all STM32Fx that features enough memory.
 This library is a concept of proof; it is intended for demo purpose and lack an Arduino wrapper with common functions such as `digitalWrite`.
 
 ## References:
 
-https://github.com/sfranzyshen/ESP-Arduino-Lua, https://github.com/FASTSHIFT/Lua-For-STM32
+- https://github.com/sfranzyshen/ESP-Arduino-Lua
+- https://github.com/FASTSHIFT/Lua-For-STM32
 
 
