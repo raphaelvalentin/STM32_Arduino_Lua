@@ -46,7 +46,7 @@ The library shall be compatible will all STM32 that features enough memory.
 This library is a concept of proof; it is intended for demo purpose and lack an Arduino wrapper with common functions such as `digitalWrite`.
 
 ## References:
-https://github.com/sfranzyshen/ESP-Arduino-Lua
-https://github.com/FASTSHIFT/Lua-For-STM32
+
+https://github.com/sfranzyshen/ESP-Arduino-Lua, https://github.com/FASTSHIFT/Lua-For-STM32
 
 
