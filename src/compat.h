@@ -1,6 +1,6 @@
 /*
  * compatiblity layer with STM arm libraries 
- * fix missing function definitions used for lua library
+ * fix missing function definitions used by lua library
  */
 
 #ifndef arm_h
