@@ -38,7 +38,7 @@ Global variables use 1896 bytes (0%) of dynamic memory, leaving 522392 bytes for
 ## The Lua Language:
 [Lua 5.3 Reference Manual](https://www.lua.org/manual/5.3/)
 
-## Board Compatiliby
+## Board Compatibility
 
 The library shall be compatible will all STM32Fx that features enough memory.
 This library is a concept of proof; it is intended for demo purpose and lack an Arduino wrapper with common functions such as `digitalWrite`.
